@@ -1,0 +1,27 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "Landing page for fintech APIs",
+  "main": "index.html",
+  "scripts": {
+    "install-http-server": "npm install -g http-server",
+    "start-http-server": "http-server",
+    "start": "npm run install-http-server && npm run start-http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paygeon/core.git"
+  },
+  "keywords": [
+    "fintech",
+    "landing",
+    "page",
+    "baas"
+  ],
+  "author": "Vashon Gonzales",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paygeon/core/issues"
+  },
+  "homepage": "https://github.com/Paygeon/core#readme"
+}
